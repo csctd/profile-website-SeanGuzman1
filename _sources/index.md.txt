@@ -1,6 +1,6 @@
-# Page Title
+# Sean Guzman TD Site
 
-A short introduction for the top of your main page
+Programming is fun
 
 
 More content you want on your page
